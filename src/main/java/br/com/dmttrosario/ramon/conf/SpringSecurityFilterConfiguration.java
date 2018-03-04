@@ -1,0 +1,8 @@
+package br.com.dmttrosario.ramon.conf;
+
+import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer;
+
+public class SpringSecurityFilterConfiguration extends AbstractSecurityWebApplicationInitializer{
+
+	
+}
